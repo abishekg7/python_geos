@@ -17,4 +17,6 @@ dependencies:
   - siphon
   - xarray
   - pip
+  - pydap
+  - nc-time-axis
   - ipywidgets
