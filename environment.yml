@@ -11,11 +11,10 @@ dependencies:
   - netcdf4
   - metpy
   - jupyter
+  - jupyterlab
   - xarray
   - cartopy
   - siphon
   - xarray
   - pip
-  - pydap
-  - nc-time-axis
   - ipywidgets
