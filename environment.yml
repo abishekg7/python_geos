@@ -17,4 +17,5 @@ dependencies:
   - siphon
   - xarray
   - pip
+  - pydap
   - ipywidgets
